@@ -2,6 +2,8 @@
 ![Watch Project](https://img.shields.io/github/watchers/SolarisFlare/dtg.svg?style=social)
 ![Follow Me](https://img.shields.io/github/followers/SolarisFlare.svg?style=social)
 
+[![Build Status](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig.svg?branch=master)](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig)
+
 # README
 
 Tailwind Accesibility Config Project: For a more accessible Tailwind!
