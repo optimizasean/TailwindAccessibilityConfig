@@ -54,3 +54,5 @@ If we use color intentionally, consistently, and sensitively, it can make a big 
 ## Ending remarks
 
 I did this when I discovered how amazing TailwindCSS is and starting designing websites. When I started, I began thinking about government requirements, Section 508, 18F, and the individual organization level rules about style and so on. Then, afterwards, I decided to make the easy tool I like to use for design accessible and compliant (so long as you follow the rules and use it right - try your best, super hard and confusing but good luck).  I hope this will make the web more open and accesible for everyone!
+
+If you want to contribute, just submit a pull request!  I would love more people to help me add to this to make it even better such as by including fonts and more as well as adding more documentation so everyone can find it all in one place even if it is links or pdfs and so on.
