@@ -1,0 +1,4 @@
+@media @import "tailwindcss/components"
+@import "tailwindcss/utilities"{
+@tailwind base
+}
