@@ -1,0 +1,5 @@
+language: generic
+before_script:
+  - npm install
+script:
+  - npm run build
