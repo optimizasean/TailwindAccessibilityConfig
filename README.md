@@ -1,8 +1,12 @@
+[![Build Status](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig.svg?branch=master)](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig)
+[![License](https://img.shields.io/github/license/SolarisFlare/TailwindAccessibilityConfig.svg)](https://raw.githubusercontent.com/SolarisFlare/TailwindAccessibilityConfig/master/LICENSE)
+[![GitHub version](https://badge.fury.io/gh/SolarisFlare%2FTailwindAccessibilityConfig.svg)](https://badge.fury.io/gh/SolarisFlare%2FTailwindAccessibilityConfig)
+[![Open Github Issues](https://img.shields.io/github/issues-raw/SolarisFlare/TailwindAccessibilityConfig.svg)](https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues)
+[![Closed Github Issues](https://img.shields.io/github/issues-closed-raw/SolarisFlare/TailwindAccessibilityConfig.svg)](https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues)
+
 ![Star Project](https://img.shields.io/github/stars/SolarisFlare/dtg.svg?style=social)
 ![Watch Project](https://img.shields.io/github/watchers/SolarisFlare/dtg.svg?style=social)
 ![Follow Me](https://img.shields.io/github/followers/SolarisFlare.svg?style=social)
-
-[![Build Status](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig.svg?branch=master)](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig)
 
 # README
 
