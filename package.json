@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.1.3"
   }
 }
