@@ -3,7 +3,7 @@
   "description": "Tailwind colors replaced (in Tailwind style) by the USG standards for accesibility colors defined at: https://designsystem.digital.gov/",
   "main": "\"\"",
   "scripts": {
-    "build": "postcss tailwind.scss -o tailwind.css"
+    "build": "postcss build/pre/tailwind.css -o build/post/tailwind.css"
   },
   "repository": {
     "type": "git",
