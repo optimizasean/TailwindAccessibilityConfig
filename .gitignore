@@ -1,0 +1,34 @@
+##########################
+# System Generated Files #
+##########################
+.DS_Store
+.icloud
+Desktop.ini
+.git
+.vscode
+*.code-workspace
+
+###################################
+# Temporary Files and Directories #
+###################################
+temp.*
+temp
+TEMP.*
+TEMP
+TEMP/**/*
+temp/**/*
+
+#######
+# NPM #
+#######
+node_modules/
+
+##########
+# Custom #
+##########
+
+##############
+# Exceptions #
+##############
+!.keep
+
