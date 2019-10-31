@@ -1,3 +1,7 @@
+![Star Project](https://img.shields.io/github/stars/SolarisFlare/dtg.svg?style=social)
+![Watch Project](https://img.shields.io/github/watchers/SolarisFlare/dtg.svg?style=social)
+![Follow Me](https://img.shields.io/github/followers/SolarisFlare.svg?style=social)
+
 # README
 
 Tailwind Accesibility Config Project: For a more accessible Tailwind!
