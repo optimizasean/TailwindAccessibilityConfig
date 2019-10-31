@@ -28,9 +28,14 @@ Use USWDS magic numbers to choose accessible color combinations from any palette
  
 ## Color Wheels
 
-USWDS standard system color tokens wheel
+**USWDS standard system color tokens wheel**
 
-USWDS vivid system color tokens wheel
+![](uswds-standard-color-wheel.jpg)
+
+**USWDS vivid system color tokens wheel**
+
+![](uswds-vivid-color-wheel.jpg)
+
 
 ## General Color Guidance
 
