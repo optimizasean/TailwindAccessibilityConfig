@@ -1,4 +1,21 @@
 {
+  "name": "tailwindaccessibilityconfig",
+  "description": "Tailwind colors replaced (in Tailwind style) by the USG standards for accesibility colors defined at: https://designsystem.digital.gov/",
+  "main": "\"\"",
+  "scripts": {
+    "build": "postcss tailwind.scss -o tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolarisFlare/TailwindAccessibilityConfig.git"
+  },
+  "keywords": [],
+  "author": "SolarisFlare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues"
+  },
+  "homepage": "https://github.com/SolarisFlare/TailwindAccessibilityConfig#readme",
   "dependencies": {
     "autoprefixer": "^9.7.0",
     "postcss-cli": "^6.1.3",
@@ -6,5 +23,7 @@
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.1.3"
-  }
+  },
+  "version": "1.0.0",
+  "devDependencies": {}
 }
