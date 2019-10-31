@@ -1,4 +1,20 @@
-# TailwindAccessibilityConfig
+# README
+
+Tailwind Accesibility Config Project: For a more accessible Tailwind!
+
+# Table of Contents
+
+1. [README](#readme)
+2. [Description](#description)
+3. [Accessible Color Pairings](#accessible-color-pairings)
+4. [Color Wheels](#color-wheels)
+5. [General Color Guidance](#general-color-guidance)
+6. [Development](#development)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Code of Conduct](#code-of-conduct)
+10. [Links and Files](#links-and-files)
+11. [Ending Remarks](#ending-remarks)
 
 ## Description
 
@@ -8,7 +24,7 @@ Tailwind colors replaced (in Tailwind style) by the USG standards for accesibili
 
 Primary Source: [US Government design accesibilty color rules](https://designsystem.digital.gov/design-tokens/color/overview/)
 
-## Accesible color pairings
+## Accessible Color Pairings
 
 USWDS created a color grade system which helps people choose accesible colors from grades (originally based on 5-90 where 0 is right) based on 000 to 1000. 000 is white and 1000 would be black, the colors step in grades usually by 100 except for gray which steps in 10s until 50, then from 100-900 by hundreds
 
@@ -17,11 +33,8 @@ To choose an accesible color, use the magic number:
 > A magic number is the difference in color grade done by {color A} - {color B} = {magic number}
 
 1. A magic number of 40+ results in WCAG 2.0 AA Large Text contrast
-
 2. A magic number of 50+ results in WCAG 2.0 AA contrast or AAA Large Text contrast
-
 3. A magic number of 70+ results in WCAG 2.0 AAA contrast
-
 4. Colors of grade 50 result in Section 508 AA contrast against both pure white (000) and pure black (1000)
 
 Use USWDS magic numbers to choose accessible color combinations from any palette and color family.
@@ -50,6 +63,51 @@ If we use color intentionally, consistently, and sensitively, it can make a big 
 **Ask visual designers.** Your group or agency may have visual designers either on staff or available as contractors. They can be an invaluable resource for building palettes or getting feedback on existing ones. USWDS benefits from the collective experience of visual designers across agencies to build our system palette, and to provide a range of prebuilt project theme palettes. If you have visual design resources, use them.
 
 **Don’t use color exclusively to convey meaning.** Even Section 508 conformant contrast doesn’t ensure that colors are distinguishable for a significant percentage of your audience. Approximately 0.5% of adult women and 8% of adult men have some kind of color insensitivity, especially between red and green. Color should only be used as progressive enhancement — if color is the only signal, that signal won’t get through as intended to everyone.
+
+## Development
+
+After checking out the repo, run `npm install` to install dependencies. Then, run `npm run build` to build the css file.
+
+You can copy any part of this to replace existing things in your project.  If you copy the css file, you can use the tailwind classes as tailwind uses them (from what is built).  If you copy more of the configuration such as how it is built, you can use it to add to an existing configuration or incorporate into your project with postcss!
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/SolarisFlare/TailwindAccessibilityConfig. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+If you want to contribute please let me know though either an email or you can just submit a pull request to add anything or open an issue and I can look through it with you!
+
+## License
+
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Code of Conduct
+
+Everyone interacting in the Dtg project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md).
+
+## Links and Files
+
+- [TailwindCSS](https://tailwindcss.com/)
+- [Code](https://github.com/SolarisFlare/TailwindAccessibilityConfig)
+- [Wiki](https://github.com/SolarisFlare/TailwindAccessibilityConfig/wiki)
+- [Projects](https://github.com/SolarisFlare/TailwindAccessibilityConfig/projects)
+- [Issues](https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues)
+- [Readme](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/README.md)
+- [Changelog](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/CHANGELOG.md)
+- [License](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/LICENSE)
+- [Code of Conduct](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md)
+- [Contributor Covenant](http://contributor-covenant.org)
+- [Pull Requests](https://github.com/SolarisFlare/TailwindAccessibilityConfig/pulls)
+- Security
+  - [Advisories](https://github.com/SolarisFlare/TailwindAccessibilityConfig/security/advisories)
+  - [Policy](https://github.com/SolarisFlare/TailwindAccessibilityConfig/security/policy)
+- Insights
+  - [Pulse](https://github.com/SolarisFlare/TailwindAccessibilityConfig/pulse)
+  - [Contributors](https://github.com/SolarisFlare/TailwindAccessibilityConfig/graphs/contributors)
+  - [Commits](https://github.com/SolarisFlare/TailwindAccessibilityConfig/graphs/commit-activity)
+  - [Code Frequency](https://github.com/SolarisFlare/TailwindAccessibilityConfig/graphs/code-frequency)
+  - [Dependency Graph](https://github.com/SolarisFlare/TailwindAccessibilityConfig/network/dependencies)
+  - [Network](https://github.com/SolarisFlare/TailwindAccessibilityConfig/network)
+  - [Forks](https://github.com/SolarisFlare/TailwindAccessibilityConfig/network/members)
 
 ## Ending remarks
 
