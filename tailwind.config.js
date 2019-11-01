@@ -4,6 +4,8 @@ module.exports = {
     separator: ':',
     theme: {
         colors: {
+            'white': '#ffffff',
+            'black': '#000000',
             'red': {
                 '050': '#f9eeee',
                 '100': '#f8e1de',
