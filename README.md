@@ -1,12 +1,12 @@
-[![Build Status](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig.svg?branch=master)](https://travis-ci.org/SolarisFlare/TailwindAccessibilityConfig)
-[![License](https://img.shields.io/github/license/SolarisFlare/TailwindAccessibilityConfig.svg)](https://raw.githubusercontent.com/SolarisFlare/TailwindAccessibilityConfig/master/LICENSE)
-[![GitHub version](https://badge.fury.io/gh/SolarisFlare%2FTailwindAccessibilityConfig.svg)](https://badge.fury.io/gh/SolarisFlare%2FTailwindAccessibilityConfig)
-[![Open Github Issues](https://img.shields.io/github/issues-raw/SolarisFlare/TailwindAccessibilityConfig.svg)](https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues)
-[![Closed Github Issues](https://img.shields.io/github/issues-closed-raw/SolarisFlare/TailwindAccessibilityConfig.svg)](https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues)
+[![Build Status](https://travis-ci.org/optimizasean/TailwindAccessibilityConfig.svg?branch=master)](https://travis-ci.org/optimizasean/TailwindAccessibilityConfig)
+[![License](https://img.shields.io/github/license/optimizasean/TailwindAccessibilityConfig.svg)](https://raw.githubusercontent.com/optimizasean/TailwindAccessibilityConfig/master/LICENSE)
+[![GitHub version](https://badge.fury.io/gh/optimizasean%2FTailwindAccessibilityConfig.svg)](https://badge.fury.io/gh/optimizasean%2FTailwindAccessibilityConfig)
+[![Open Github Issues](https://img.shields.io/github/issues-raw/optimizasean/TailwindAccessibilityConfig.svg)](https://github.com/optimizasean/TailwindAccessibilityConfig/issues)
+[![Closed Github Issues](https://img.shields.io/github/issues-closed-raw/optimizasean/TailwindAccessibilityConfig.svg)](https://github.com/optimizasean/TailwindAccessibilityConfig/issues)
 
-![Star Project](https://img.shields.io/github/stars/SolarisFlare/dtg.svg?style=social)
-![Watch Project](https://img.shields.io/github/watchers/SolarisFlare/dtg.svg?style=social)
-![Follow Me](https://img.shields.io/github/followers/SolarisFlare.svg?style=social)
+![Star Project](https://img.shields.io/github/stars/optimizasean/dtg.svg?style=social)
+![Watch Project](https://img.shields.io/github/watchers/optimizasean/dtg.svg?style=social)
+![Follow Me](https://img.shields.io/github/followers/optimizasean.svg?style=social)
 
 # README
 
@@ -82,7 +82,7 @@ You can copy any part of this to replace existing things in your project.  If yo
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/SolarisFlare/TailwindAccessibilityConfig. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/optimizasean/TailwindAccessibilityConfig. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 If you want to contribute please let me know though either an email or you can just submit a pull request to add anything or open an issue and I can look through it with you!
 
@@ -92,32 +92,32 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Dtg project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Dtg project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md).
 
 ## Links and Files
 
 - [TailwindCSS](https://tailwindcss.com/)
-- [Code](https://github.com/SolarisFlare/TailwindAccessibilityConfig)
-- [Wiki](https://github.com/SolarisFlare/TailwindAccessibilityConfig/wiki)
-- [Projects](https://github.com/SolarisFlare/TailwindAccessibilityConfig/projects)
-- [Issues](https://github.com/SolarisFlare/TailwindAccessibilityConfig/issues)
-- [Readme](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/README.md)
-- [Changelog](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/CHANGELOG.md)
-- [License](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/LICENSE)
-- [Code of Conduct](https://github.com/SolarisFlare/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md)
+- [Code](https://github.com/optimizasean/TailwindAccessibilityConfig)
+- [Wiki](https://github.com/optimizasean/TailwindAccessibilityConfig/wiki)
+- [Projects](https://github.com/optimizasean/TailwindAccessibilityConfig/projects)
+- [Issues](https://github.com/optimizasean/TailwindAccessibilityConfig/issues)
+- [Readme](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/README.md)
+- [Changelog](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CHANGELOG.md)
+- [License](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/LICENSE)
+- [Code of Conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md)
 - [Contributor Covenant](http://contributor-covenant.org)
-- [Pull Requests](https://github.com/SolarisFlare/TailwindAccessibilityConfig/pulls)
+- [Pull Requests](https://github.com/optimizasean/TailwindAccessibilityConfig/pulls)
 - Security
-  - [Advisories](https://github.com/SolarisFlare/TailwindAccessibilityConfig/security/advisories)
-  - [Policy](https://github.com/SolarisFlare/TailwindAccessibilityConfig/security/policy)
+  - [Advisories](https://github.com/optimizasean/TailwindAccessibilityConfig/security/advisories)
+  - [Policy](https://github.com/optimizasean/TailwindAccessibilityConfig/security/policy)
 - Insights
-  - [Pulse](https://github.com/SolarisFlare/TailwindAccessibilityConfig/pulse)
-  - [Contributors](https://github.com/SolarisFlare/TailwindAccessibilityConfig/graphs/contributors)
-  - [Commits](https://github.com/SolarisFlare/TailwindAccessibilityConfig/graphs/commit-activity)
-  - [Code Frequency](https://github.com/SolarisFlare/TailwindAccessibilityConfig/graphs/code-frequency)
-  - [Dependency Graph](https://github.com/SolarisFlare/TailwindAccessibilityConfig/network/dependencies)
-  - [Network](https://github.com/SolarisFlare/TailwindAccessibilityConfig/network)
-  - [Forks](https://github.com/SolarisFlare/TailwindAccessibilityConfig/network/members)
+  - [Pulse](https://github.com/optimizasean/TailwindAccessibilityConfig/pulse)
+  - [Contributors](https://github.com/optimizasean/TailwindAccessibilityConfig/graphs/contributors)
+  - [Commits](https://github.com/optimizasean/TailwindAccessibilityConfig/graphs/commit-activity)
+  - [Code Frequency](https://github.com/optimizasean/TailwindAccessibilityConfig/graphs/code-frequency)
+  - [Dependency Graph](https://github.com/optimizasean/TailwindAccessibilityConfig/network/dependencies)
+  - [Network](https://github.com/optimizasean/TailwindAccessibilityConfig/network)
+  - [Forks](https://github.com/optimizasean/TailwindAccessibilityConfig/network/members)
 
 ## Ending remarks
 
