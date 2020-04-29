@@ -10,7 +10,7 @@
 
 # README
 
-Tailwind Accesibility Config Project: For a more accessible Tailwind!
+Tailwind Accessibility Config Project: For a more accessible Tailwind!
 
 # Table of Contents
 
