@@ -4,8 +4,8 @@
 [![Open Github Issues](https://img.shields.io/github/issues-raw/optimizasean/TailwindAccessibilityConfig.svg)](https://github.com/optimizasean/TailwindAccessibilityConfig/issues)
 [![Closed Github Issues](https://img.shields.io/github/issues-closed-raw/optimizasean/TailwindAccessibilityConfig.svg)](https://github.com/optimizasean/TailwindAccessibilityConfig/issues)
 
-![Star Project](https://img.shields.io/github/stars/optimizasean/dtg.svg?style=social)
-![Watch Project](https://img.shields.io/github/watchers/optimizasean/dtg.svg?style=social)
+![Star Project](https://img.shields.io/github/stars/optimizasean/TailwindAccessibilityConfig.svg?style=social)
+![Watch Project](https://img.shields.io/github/watchers/optimizasean/TailwindAccessibilityConfig.svg?style=social)
 ![Follow Me](https://img.shields.io/github/followers/optimizasean.svg?style=social)
 
 # README
@@ -92,7 +92,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Dtg project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the TailwindAccessibilityConfig project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md).
 
 ## Links and Files
 
