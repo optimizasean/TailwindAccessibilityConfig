@@ -92,7 +92,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the TailwindAccessibilityConfig project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the TailwindAccessibilityConfig project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/main/CODE_OF_CONDUCT.md).
 
 ## Links and Files
 
@@ -101,10 +101,10 @@ Everyone interacting in the TailwindAccessibilityConfig project’s codebases, i
 - [Wiki](https://github.com/optimizasean/TailwindAccessibilityConfig/wiki)
 - [Projects](https://github.com/optimizasean/TailwindAccessibilityConfig/projects)
 - [Issues](https://github.com/optimizasean/TailwindAccessibilityConfig/issues)
-- [Readme](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/README.md)
-- [Changelog](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CHANGELOG.md)
-- [License](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/LICENSE)
-- [Code of Conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/master/CODE_OF_CONDUCT.md)
+- [Readme](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/main/README.md)
+- [Changelog](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/main/CHANGELOG.md)
+- [License](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/main/LICENSE)
+- [Code of Conduct](https://github.com/optimizasean/TailwindAccessibilityConfig/blob/main/CODE_OF_CONDUCT.md)
 - [Contributor Covenant](http://contributor-covenant.org)
 - [Pull Requests](https://github.com/optimizasean/TailwindAccessibilityConfig/pulls)
 - Security
